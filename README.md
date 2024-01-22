@@ -1,6 +1,6 @@
 # Jogo do Número Secreto
 
-Bem-vindo ao Jogo do Número Secreto ! Este projeto foi desenvolvido com HTML, CSS e JavaScript para criar um jogo interativo onde o usuário deve adivinhar um número de 0 a 100. Além disso, o jogo conta com uma narração de voz feminina para orientar o jogador em cada ação na tela.
+Bem-vindo ao Jogo do Número Secreto ! Este projeto foi desenvolvido com HTML, CSS e JavaScript para criar um jogo interativo onde o usuário deve adivinhar um número de 0 a 1000. Além disso, o jogo conta com uma narração de voz feminina para orientar o jogador em cada ação na tela.
 
 ## Tecnologias Utilizadas
 
@@ -14,7 +14,7 @@ Baixe ou clone o repositório em seu computador. Abra o arquivo `index.html` em 
 
 ## Recursos
 
-- **Adivinhação de Números**: Escolha um número entre 0 e 100.
+- **Adivinhação de Números**: Escolha um número entre 0 e 1000.
 - **Narração de Voz Feminina**: Orientação por uma voz feminina em cada ação na tela.
 - **Botões de Chutar e Novo Jogo**: Faça sua escolha, reinicie o jogo e divirta-se!
 - **Design Responsivo e Atraente**: Interface fácil de usar em qualquer dispositivo.
